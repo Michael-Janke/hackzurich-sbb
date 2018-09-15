@@ -1,0 +1,10 @@
+.train {
+    transform: matrix(1, 0, 0, 1, 200, 0);
+    transition: transform 4s ease;
+}
+.animated {
+    transform: matrix(1, 0, 0, 1, -440, 0);
+}
+.byebye {
+    transform: matrix(1, 0, 0, 1, -1140, 0);
+}
